@@ -1,0 +1,29 @@
+body{
+  background: url(./img/1.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.container{
+  background: url(./img/1.gif);
+  background-repeat: no-repeat;
+}
+.img{
+  height: 100px;
+  background-color: red;
+}
+#card-js{
+  display:block;
+  width:100%;
+  height:auto;
+  margin:auto;
+  border-radius:20px;
+  text-align:center;
+  
+ 
+  color:white;
+  background: #00d4ff; 
+  background: linear-gradient(to bottom, #00d4ff, #ff80fa, #79ffbc) !important;
+}
+#output-js{
+  font-size:20px;
+  color: white;
